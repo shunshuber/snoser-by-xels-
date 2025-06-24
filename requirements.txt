@@ -1,0 +1,9 @@
+psutil
+pillow 
+colorama 
+requests 
+browser_cookie3 
+keyboard 
+opencv-python 
+pyperclip
+sqlite3
